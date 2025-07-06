@@ -3,4 +3,4 @@ FastAPI Patients
 
 
 
-# uvicorn mail:app --reload
+# uvicorn main:app --reload
